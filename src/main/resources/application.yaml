@@ -41,7 +41,7 @@ spring:
 
 envio:
   email:
-    from: "markimmaya@gmail.com"
+    from:
     nomeFrom: 'Marcus'
 
 server:
